@@ -1,5 +1,5 @@
 {
-  "login": "Login2",
+  "login": "Login3",
   "labelId": "ID",
   "labelPassword": "PASSWORD",
   "invalidId": "The User ID is invalid.\r\nPlease enter again.",
@@ -371,7 +371,7 @@
   "default": "Default",
   "inACall": "In a call",
   "versionInfo": "Version Information",
-  "contacts": "Contacts-git2",
+  "contacts": "Contacts-git3",
   "noResultContact": "No result found in Contacts.",
   "searchContactDirectory": "Search user and message.",
   "foundTooManyMatchesforSearch": "Found too many matches to show them all. Please refine your search.",
